@@ -7,3 +7,4 @@
 - doideira da navbar (por causa da ref)
 - arrumar stack de imagens
 - ver pq tem padding no footer
+- meu pau ta muito duro!!
